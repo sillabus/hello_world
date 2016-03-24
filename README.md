@@ -1,2 +1,1 @@
-# hello_world
-This is my repository
+My name is Roger and one day I hope to be an awesome programmer.
